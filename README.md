@@ -33,7 +33,7 @@ Run the following cell **(3.1) Data Preprocess Function** to initialize the "Dat
 ![image](https://github.com/user-attachments/assets/4edb7dc9-8ff4-459d-b60b-1be86d212c3e)  
 Then you can run the following cell **(3.2) Data Preprocess Testing** to test the function  
 Note: Remember to change the image's path at <line 11> for testing purpose.  
-![image](https://github.com/user-attachments/assets/a0a09a37-8640-4447-8311-e11034769bc6)  
+![image](https://github.com/user-attachments/assets/a485e93a-1f20-4fbe-93d3-dbdd60725273)
 Example preprocessed images:  
 1. To black/white scale:  
 ![image](https://github.com/user-attachments/assets/adbe52fe-7d35-49de-8a13-a9bd33b2b4da)  
