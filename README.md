@@ -57,7 +57,7 @@ Dataset generate.
 Remember to change the path at <line 120> to save your dataset.  
 ![image](https://github.com/user-attachments/assets/b24c247d-8b89-4dc5-aa87-f3ad5e5d962e)  
   
-# Model Training & Testing:  
+# Advanced Model Training & Testing (model_v2.ipynb):  
 ### (1) Module install  
 For module import. You have to ensure you have installed all the module you needed.  
 Run "pip install -r requirement_model.txt" to install all the modules. Also make sure you have download the "yolov9_2" to the directory.  
@@ -178,7 +178,7 @@ Dataset generate.
 Remember to change the path at <line 120> to save your dataset.  
 ![image](https://github.com/user-attachments/assets/b24c247d-8b89-4dc5-aa87-f3ad5e5d962e)  
   
-# Model Training & Testing:  
+# Baseline Model Training & Testing (baseline.ipynb):  
 ### (1) Module install  
 For module import. You have to ensure you have installed all the module you needed.  
 Run "pip install -r requirement_model.txt" to install all the modules. Also make sure you have download the "yolov9_2" to the directory.  
